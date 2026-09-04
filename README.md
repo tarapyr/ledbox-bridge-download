@@ -16,7 +16,7 @@ Aplikace přenáší zejména:
 
 Aktuální verzi aplikace stáhnete zde:
 
-### [Stáhnout nejnovější verzi LEDBOX Bridge](https://github.com/tarapyr/ledbox-bridge-download/releases/latest)
+### [Stáhnout nejnovější verzi LEDBOX Bridge](https://apps.microsoft.com/detail/9MZ34PSJL3WM)
 
 Na stránce vydání otevřete část **Assets**, kde najdete instalační program, dokumentaci a další soubory.
 
@@ -43,15 +43,12 @@ Google Chrome je oficiálně podporovaný prohlížeč. Použití v Microsoft Ed
 
 ## Instalace
 
-1. Otevřete stránku [nejnovějšího vydání](https://github.com/tarapyr/ledbox-bridge-download/releases/latest).
-2. V části **Assets** stáhněte instalační soubor s příponou `.exe`.
-3. Spusťte stažený instalační program.
-4. Postupujte podle pokynů instalačního programu.
-5. Proveďte nastavení aplikace, rozšíření prohlížeče a připojení LEDboxu podle uživatelské příručky.
+Instalace
 
-Protože instalační program nemusí být opatřen komerčním digitálním podpisem, může systém Windows při prvním spuštění zobrazit upozornění **Windows chránil váš počítač**. V takovém případě zvolte **Další informace** a následně **Přesto spustit**.
+LEDBOX Bridge je nyní distribuován prostřednictvím Microsoft Store.
 
-Instalační program stahujte pouze z tohoto oficiálního repozitáře.
+Doporučená instalace:
+[LEDBOX Bridge v Microsoft Store]
 
 ## Aktualizace
 
