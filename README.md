@@ -18,9 +18,6 @@ Aktuální verzi aplikace stáhnete zde:
 
 ### [Stáhnout nejnovější verzi LEDBOX Bridge](https://apps.microsoft.com/detail/9MZ34PSJL3WM)
 
-Na stránce vydání otevřete část **Assets**, kde najdete instalační program, dokumentaci a další soubory.
-
-Pro stažení není nutný účet na GitHubu.
 
 ## Obsah vydání
 
