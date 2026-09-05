@@ -23,11 +23,9 @@ Aktuální verzi aplikace stáhnete zde:
 
 Jednotlivá vydání mohou obsahovat:
 
-* instalační program `LEDBOXBridge_Setup_*.exe`,
 * uživatelskou příručku ve formátu PDF,
 * rozšíření pro Google Chrome,
 * ukázkové nebo instruktážní video,
-* kontrolní součet instalačního souboru.
 
 ## Systémové požadavky
 
@@ -45,7 +43,7 @@ Instalace
 LEDBOX Bridge je nyní distribuován prostřednictvím Microsoft Store.
 
 Doporučená instalace:
-[LEDBOX Bridge v Microsoft Store]
+[[LEDBOX Bridge v Microsoft Store]](https://apps.microsoft.com/detail/9MZ34PSJL3WM)
 
 ## Aktualizace
 
